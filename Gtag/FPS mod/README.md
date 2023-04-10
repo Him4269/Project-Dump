@@ -11,4 +11,4 @@ Simple FPS mod for gtag
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Him4269/Project-Dump/blob/main/Gtag/FPS%20mod/image.png?raw=true)
