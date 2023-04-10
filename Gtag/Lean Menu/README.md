@@ -5,7 +5,7 @@ To use menu *click* the **Left thumbstick down**
 
 ## Features
 
-- No Grav
+- No Grav (Left Grip)
 - Ice Control
 - Leave Lobby
 - No Clip (Left Top Button)
