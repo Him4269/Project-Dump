@@ -18,7 +18,7 @@ To use menu *click* the **Left thumbstick down**
 - Shut up Gun (Right Grip/Trigger)
 - Drift (Left Trigger)
 ## Video
-https://www.youtube.com/watch?v=1NVFPc4VcFI
+[embedtest](https://www.youtube.com/watch?v=1NVFPc4VcFI)
 
 **THIS WORKS WITH OTHER MENUS**
 
