@@ -7,10 +7,13 @@ This is a dump of all of the projects I am currently working on
 ## Projects
 
 **Windows**
+
 - User TAS bot (*WIP*)
 - Password manager (*Done*)
 - Universal Melonloader menu (*WIP*)
+
 **Gtag**
+
 - FPS mod (*Done*)
 - Lean Menu (*WIP*)
 
