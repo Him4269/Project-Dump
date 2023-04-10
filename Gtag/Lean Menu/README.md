@@ -1,7 +1,7 @@
 # Lean Menu
 
 You know lean menu
-
+To use menu *click* the **Left thumbstick down**
 
 ## Features
 
@@ -19,4 +19,6 @@ You know lean menu
 - Drift (Left Trigger)
 ## Video
 
+**THIS WORKS WITH OTHER MENUS**
+But some mods might break
 Youtube link here
