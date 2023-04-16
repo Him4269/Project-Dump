@@ -25,4 +25,4 @@ If you like a visual walkthrough instead, [Use this](https://www.youtube.com/wat
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Him4269/Project-Dump/new/main/Mods/Universal/image.png?raw=true)
+![App Screenshot](https://github.com/Him4269/Project-Dump/blob/main/Mods/Universal/image.png?raw=true)
