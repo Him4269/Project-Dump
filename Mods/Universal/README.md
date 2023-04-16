@@ -15,6 +15,7 @@ First:
 - Under Version select *latest*, and under Game Arch select *Auto-Detect*
 - Simple Click install
 - Then drag the .dll into the **Mods** folder in the Unity Game's Directory
+
 If you like a visual walkthrough instead, [Use this](https://www.youtube.com/watch?v=_8B80owys4w)
 ## Features
 
