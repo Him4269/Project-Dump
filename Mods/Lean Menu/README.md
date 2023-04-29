@@ -4,7 +4,7 @@ You know lean menu, this time its going to be different
 
 There will be *two* columns, one side will have fun mods, the other side will have my mods
 
-To use menu *click* the **Left thumbstick down**
+To use menu *click* the **Right thumbstick down**
 
 ## Features
 
