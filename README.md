@@ -17,14 +17,6 @@ This is a dump of all of the projects I am currently working on
 - FPS mod (*Done*)
 - Lean Menu (*WIP*)
 
-
-## Support
-
-For support, DM **Fuckinclown#3108** or join my Discord server: https://discord.gg/KRrJpU23Vh
-
-
-
-
 ## FAQ
 
 #### Are any of these dangerous?
